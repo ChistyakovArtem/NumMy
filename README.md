@@ -7,4 +7,4 @@ Faster speed are achieved by redesigning structure of NumPy to more optimal and 
 
 My tests https://docs.google.com/spreadsheets/d/1mevF21Vb8EghB1VBgujWzGI51sdI0pcsKuoB3skUPHo/edit?usp=sharing
 
-There are plans to add more functions, change h-type to classic design with .h/.cpp files, add more unit-tests, documentation.
+There are plans to add more functions, change h-type to classic design with .h/.cpp files, add more unit-tests, documentation, add distributed computations and optimize some functions.
